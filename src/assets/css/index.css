@@ -1,0 +1,11 @@
+body{
+  background: url('../imagenes/fondo.jpg') no-repeat 0px 0px;
+  background-size: cover;
+  background-attachment: fixed;
+  margin:0;
+  padding:0;
+}
+
+
+
+
